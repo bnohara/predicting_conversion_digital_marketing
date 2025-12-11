@@ -1,5 +1,5 @@
 <h1>Summary and Goal</h1>
-<p>In this project, we look at marketing campaign data at the user level. The goal is to create a machine learning model to predict which users will <b>not</b> convert.</p>
+<p>In this project, we look at marketing campaign data at the user level. The goal is to create a machine learning model to predict which users will <b>not</b> convert. Check out the model.ipynb file for details on the strategies that were tested and how the predictions turned out.</p>
 
 <p>Conversion rate in this dataset is pretty high at 88%, so identifying the minority case should be more useful. To increase campaign efficiency, these non-converting users could be added to an exclusion audience. Or, experiments could be run with different marketing strategies to see how to increase the conversion rate for these users.</p>
 
